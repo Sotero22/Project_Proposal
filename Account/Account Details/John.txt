@@ -1,0 +1,9 @@
+Created: 2024-11-26 07:34:46
+Username:John
+Password: Cena
+*-----------------------------*
+Name: John Nave
+Address: Colon Cebu City
+Contact No.: 09802223349
+No. of People: 4
+No.of Appliance: 13

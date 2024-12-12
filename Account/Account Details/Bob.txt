@@ -1,0 +1,9 @@
+Created: 2024-12-13 01:02:04
+Username:Bob
+Password: Marley
+*-----------------------------*
+Name: Bob W. Marley
+Address: Colon Cebu City
+Contact No.: 09602224429
+No. of People: 12
+No.of Appliance: 20
